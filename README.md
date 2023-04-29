@@ -1,5 +1,5 @@
 ## Hey 👋, This is Feluk6174
-[![Gmail Badge](https://img.shields.io/badge/-feluk6174@proton.me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:feluk6174@proton.me)](mailto:feluk6174@proton.me) [![Github Badge](https://img.shields.io/badge/-Feluk6174-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Feluk6174/)](https://www.github.com/Feluk6174/) <p align='left'>I'm a Catalan high school student who like to code. I mainly code in python, but I have lately been learning some rust.</p>
+[![Proton Badge](https://img.shields.io/badge/-feluk6174@proton.me-c14438?style=flat&logo=data:https://proton.me/static/fc5b1e8b92dd09734ca7c9d91e89db93/proton-mail-badge.svg&logoColor=white&link=mailto:feluk6174@proton.me)](mailto:feluk6174@proton.me) [![Github Badge](https://img.shields.io/badge/-Feluk6174-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Feluk6174/)](https://www.github.com/Feluk6174/) <p align='left'>I'm a Catalan high school student who like to code. I mainly code in python, but I have lately been learning some rust.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Feluk6174 alt=Feluk6174 /> </p>
 
