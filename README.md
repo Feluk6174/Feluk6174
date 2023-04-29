@@ -1,6 +1,8 @@
 ## Hey 👋, This is Feluk6174
 [![Proton Badge](https://img.shields.io/badge/-feluk6174@proton.me-8470f8?style=flat&logo=Gmail&logoColor=white&link=mailto:feluk6174@proton.me)](mailto:feluk6174@proton.me) [![Github Badge](https://img.shields.io/badge/-Feluk6174-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Feluk6174/)](https://www.github.com/Feluk6174/) 
-<p align='left'>I'm a Catalan high school student who like to code. I mainly code in python, but I have lately been learning some rust. As my <i>Treball de recerca</i>, a school project that has to be done in some parts of spain, with a friend, I have built Doxa, a decentralized social network.</p>
+<p align='left'>I'm a Catalan high school student who like to code. I mainly code in python, but I have lately been learning some rust.</p>
+<img src='https://boisterous-marigold-12fc5e.netlify.app/images/logo.png'>
+<p align='left'>I'm have coded the server, API and a small part of the gui of Doxa, a decentralized social network that a friend and I started for the <i>Treball de recerca</i>, a school project that is done in some parts of spain</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Feluk6174 alt=Feluk6174 /> </p>
 
