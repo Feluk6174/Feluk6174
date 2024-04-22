@@ -1,6 +1,6 @@
 ## Hey I'm Feluk6174
 [![Proton Badge](https://img.shields.io/badge/-feluk6174@proton.me-8470f8?style=flat&logo=Gmail&logoColor=white&link=mailto:feluk6174@proton.me)](mailto:feluk6174@proton.me) [![Github Badge](https://img.shields.io/badge/-Feluk6174-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Feluk6174/)](https://www.github.com/Feluk6174/) 
-<p align='left'>I'm a Catalan high school student who like to code. I mainly code in python, but I have lately been learning some rust.</p>
+<p align='left'>I'm a Catalan student cirrently studing Computational Mathematics and data analytics. I mainly code in python, but I have lately been learning some rust.</p>
 <p align='left'>Languages I speak:
   <br><img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008", width="24"> Python
   <br><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg", width="24"> Rust (Learning)
